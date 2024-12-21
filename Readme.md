@@ -5,6 +5,8 @@ This project leverages blockchain technology to manage student loans transparent
 
 ## Contract Address
 0x4ea5d21618ca72afd7B650B2E67b7679E0557A64
+![image](https://github.com/user-attachments/assets/124e7086-8abc-4b99-90a9-1066e497fe12)
+
 
 ## Project Vision
 The vision of this project is to streamline student loan management through a decentralized platform. By automating interest calculations and providing real-time updates, the contract empowers students and lenders with a transparent, efficient, and fair repayment system.
